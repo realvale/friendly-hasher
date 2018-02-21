@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Friendly Hasher
 
-You can use the [editor on GitHub](https://github.com/realvale/friendly-hasher/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Friendly hasher is an application written in Java, which encrypts plain text in to diffrent hash types.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
